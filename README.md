@@ -35,8 +35,10 @@ This experiment demonstrates how to configure Amazon EFS to provide a shared sto
 ### REG NUMBER: 212221240046
 ### NAME: Ritika S
  
-![p1](https://github.com/user-attachments/assets/20d2d5c0-8583-48ea-bbce-c536a1ed8579)
+
 ![p2](https://github.com/user-attachments/assets/fba8cbb7-7963-478f-b927-9f30568aed14)
+![p1](https://github.com/user-attachments/assets/c22dd9fb-74f4-4d4c-8633-c808c37f73e8)
+
 ![Screenshot (10)](https://github.com/user-attachments/assets/bc750429-614f-4437-b0ed-0eaa904ff951)
 ![Screenshot (9)](https://github.com/user-attachments/assets/32a0b827-95ee-4313-89c4-9df5e6e57ba5)
 
